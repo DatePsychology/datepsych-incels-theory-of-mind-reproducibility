@@ -57,6 +57,6 @@ See [`SOURCE_AUDIT.md`](SOURCE_AUDIT.md) for methods, mathematical assumptions, 
 - **RMET measurement debate:** [Murphy & Hall (2024)](https://doi.org/10.1016/j.cpr.2024.102506); [Higgins et al. (2025)](https://doi.org/10.1016/j.cpr.2024.102530)
 - **Additional related evidence:** [Koo et al. (2022)](https://doi.org/10.3389/fpsyg.2022.863763); [Costello et al. (2023)](https://doi.org/10.1080/00224499.2023.2248096)
 
-The [companion article)](https://datepsych.substack.com/p/do-incels-have-a-theory-of-mind-deficit) contains the full methodological interpretation and bibliography. This repository does **not** redistribute third-party PDFs, source webpages, or original participant records.
+The [companion article](https://datepsych.substack.com/p/do-incels-have-a-theory-of-mind-deficit) contains the full methodological interpretation and bibliography. This repository does **not** redistribute third-party PDFs, source webpages, or original participant records.
 
 
