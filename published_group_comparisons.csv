@@ -1,0 +1,13 @@
+group,outcome,table_p,prose_p,cohens_d_table,cohens_d_prose,direction,source_detail
+Involuntarily celibate,Hostile attribution,0.004,0.004,0.41,0.41,higher,Date Psychology Table 1 and Main Analysis
+Involuntarily celibate,RMET,ns,,,,,Date Psychology Table 1
+Involuntarily single,Hostile attribution,0.003,0.003,0.38,0.38,higher,Date Psychology Table 1 and Main Analysis
+Involuntarily single,RMET,ns,,,,,Date Psychology Table 1
+Incel subculture,Hostile attribution,ns,0.159,,,,Date Psychology Table 1 and Main Analysis
+Incel subculture,RMET,0.008,0.008,0.88,0.88,lower,Date Psychology Table 1 and Main Analysis
+Red Pill,Hostile attribution,ns,,,,,Date Psychology Table 1
+Red Pill,RMET,ns,,,,,Date Psychology Table 1
+Black Pill,Hostile attribution,ns,,,,,Date Psychology Table 1
+Black Pill,RMET,ns,,,,,Date Psychology Table 1
+MRA,Hostile attribution,ns,,,,,Date Psychology Table 1
+MRA,RMET,0.04,0.042,0.69,0.80,lower,Date Psychology Table 1 and Manosphere Subanalysis

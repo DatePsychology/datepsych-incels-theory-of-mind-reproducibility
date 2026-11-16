@@ -1,0 +1,16 @@
+category,group,reported_count,reported_percent,source_detail
+sex,Women,108,,Descriptive Statistics
+sex,Men,225,,Descriptive Statistics
+sex,Other,5,,Descriptive Statistics
+sex,Published total,338,,Descriptive Statistics
+sexual_orientation,Heterosexual,,87.8,Descriptive Statistics
+sexual_orientation,Bisexual,,8.7,Descriptive Statistics
+sexual_orientation,Gay or lesbian,,2.4,Descriptive Statistics
+sexual_orientation,Other,,1.1,Descriptive Statistics
+recent_sex,Women sex in past 3 years,,68,Gender Subanalysis
+recent_sex,Men sex in past 3 years,,60,Gender Subanalysis
+recent_sex,Women sex in past year,,60,Gender Subanalysis
+recent_sex,Men sex in past year,,55,Gender Subanalysis
+incel_subculture,In relationship,,7,Table 2 Relationship outcomes
+incel_subculture,Sex in past 12 months,,36,Table 2 Relationship outcomes
+incel_subculture,Sex in past 3 years,,36,Table 2 Relationship outcomes

@@ -1,0 +1,6 @@
+model,F,df1,df2,reported_r2,labelled_adjusted,reported_p,source_detail
+Hostile attribution predicting RMET,0.827,1,366,-0.000,yes,0.364,Hostile Attribution and RMET
+Hostile attribution and no sex in 12 months,7.092,1,366,0.019,yes,0.008,Sexual Activity RMET and Hostile Attribution
+Hostile attribution and no sex in 3 years,6.359,1,366,0.017,yes,0.012,Sexual Activity RMET and Hostile Attribution
+Hostile attribution and relationship success full sample,15.02,1,366,0.037,yes,<0.001,RMET Hostile Attribution and Self-Reported Relationship Success
+Hostile attribution and relationship success women,5.177,1,106,0.038,yes,0.025,RMET Hostile Attribution and Self-Reported Relationship Success

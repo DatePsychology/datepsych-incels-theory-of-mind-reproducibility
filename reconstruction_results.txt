@@ -1,0 +1,30 @@
+Date Psychology incel/ToM article — published-summary reconstruction
+Not a participant-level replication. All values below are derived from rounded published summaries.
+
+REPORTED GROUP COMPARISONS / BONFERRONI SENSITIVITY (family size 12, cutoff .004167)
+Involuntarily celibate | Hostile attribution: p=0.004; borderline: rounded p spans threshold
+Involuntarily single | Hostile attribution: p=0.003; below cutoff
+Incel subculture | Hostile attribution: p=0.159; non-significant in table; prose p available
+Incel subculture | RMET: p=0.008; above cutoff
+MRA | RMET: p=0.042; above cutoff
+
+REGRESSIONS: ordinary R² vs adjusted R² reconstructed from printed F and df
+Hostile attribution predicting RMET: n implied=368, reported R²=-0.000, ordinary R²=0.00225, adjusted R²=-0.00047, F-derived p=0.363740
+Hostile attribution and no sex in 12 months: n implied=368, reported R²=0.019, ordinary R²=0.01901, adjusted R²=0.01633, F-derived p=0.008085
+Hostile attribution and no sex in 3 years: n implied=368, reported R²=0.017, ordinary R²=0.01708, adjusted R²=0.01439, F-derived p=0.012102
+Hostile attribution and relationship success full sample: n implied=368, reported R²=0.037, ordinary R²=0.03942, adjusted R²=0.03680, F-derived p=0.000126
+Hostile attribution and relationship success women: n implied=108, reported R²=0.038, ordinary R²=0.04657, adjusted R²=0.03757, F-derived p=0.024900
+
+DEMOGRAPHICS / ORIENTATION PERCENTAGES
+Published sex counts sum to 338 (108+225+5). F(1,366) implies 368 for one-predictor OLS.
+n=338 compatible orientation counts: Heterosexual=none, Bisexual=none, Gay or lesbian=8, Other=none
+n=368 compatible orientation counts: Heterosexual=323, Bisexual=32, Gay or lesbian=9, Other=4
+
+CHI-SQUARE CHECK: 68% of 108 women vs 60% of n men, Pearson without Yates
+men n=225: χ² range 1.5954–2.0040; source printed χ²=3.2466
+men n=255: χ² range 1.6789–2.0527; source printed χ²=3.2466
+
+SMALL INCEL DENOMINATOR EXAMPLE
+n=14 allows 1/14≈7%, 5/14≈36%. Other n also fit; this is NOT a verified subgroup count.
+
+No original raw data, exact full p-value list, survey questionnaire, or code was supplied.
